@@ -13,7 +13,7 @@
 
 # 安装&升级
 ```
-bash <(curl -Ls https://js.52mss.cf/https://raw.githubusercontent.com/ShiShuMo/x-ui/master/install.sh)
+bash <(curl -Ls https://gh.52mss.cf/https://raw.githubusercontent.com/ShiShuMo/x-ui/master/install.sh)
 ```
 
 ## 手动安装&升级
